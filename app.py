@@ -243,3 +243,5 @@ def update_output_div(date, hour, proy):
 # Run the server
 if __name__ == "__main__":
     app.run_server(debug=True)
+
+# This is a new line added to test the new branch.
